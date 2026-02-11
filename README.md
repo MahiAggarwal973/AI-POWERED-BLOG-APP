@@ -44,7 +44,6 @@ https://ai-powered-blog-app-client.vercel.app/
 * Vercel (Client & Server)
 
 ## Project Structure : 
-
 AI-POWERED-BLOG-APP
 │
 ├── client/              # User-facing React app
@@ -102,4 +101,3 @@ GitHub: @MahiAggarwal973
 
 
 
-⭐ If you found this project useful, please consider giving it a star!
