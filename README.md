@@ -3,8 +3,7 @@ A full-stack AI POWERED BLOG APP built using the MERN stack that allows users to
 This project focuses on real-world blogging functionality, admin authentication, and scalable backend architecture.
 
 ## LIVE WEBSITE :
-USER PANEL: https://ai-powered-blog-app-client.vercel.app/
-ADMIN PANEL: https://ai-powered-blog-app-server-omega.vercel.app/
+https://ai-powered-blog-app-client.vercel.app/
 
 ## Key Features : 
 1. User Features:
